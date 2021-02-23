@@ -4,7 +4,7 @@ const Feed = () => {
     return (
         <div>
             Feed
-            <button onClick={()=>auth.signOut()}>Logout</button>
+            <button onClick={() => auth.signOut()}>Logout</button>
         </div>
     )
 }
