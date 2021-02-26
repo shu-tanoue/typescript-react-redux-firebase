@@ -1,3 +1,12 @@
+<img width="1440" alt="Screen Shot 2021-02-26 at 12 21 00 PM" src="https://user-images.githubusercontent.com/58486460/109350912-3308ac80-782d-11eb-9b49-761237b2fc40.png">
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
